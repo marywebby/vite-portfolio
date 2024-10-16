@@ -1,42 +1,46 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+body {
+  background: linear-gradient(black, rgb(12, 12, 81) 100%); 
+  font-family: 'Catamaran', sans-serif;
+  height: auto;
+  padding: 0;
+  margin: 0;
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+#sky {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#shootingstars {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  overflow: hidden;
+  transform: translatex(calc(50vw - 50%)) translatey(calc(50vh - 50%))
+    rotate(120deg);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.wish {
+  height: 2px;
+  top: 300px;
+  width: 100px;
+  margin: 0;
+  opacity: 0;
+  padding: 0;
+  background-color: black;
+  position: absolute;
+  background: linear-gradient(-45deg, white, rgba(0, 0, 255, 0));
+  filter: drop-shadow(0 0 6px black);
+  overflow: hidden;
 }
 
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
-}
