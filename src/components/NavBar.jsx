@@ -14,7 +14,7 @@ const NavBar = () => {
       <ul className="mt-16 w-max list-none pl-0">
         <li>
           <a
-            className="group flex items-center py-3 active"
+            className="group flex items-center py-3 active no-underline"
             onClick={(e) => handleSmoothScroll(e, 'about')} // Prevent default and handle smooth scroll
             href="#about" // Keep href for accessibility
             aria-label="#about"
@@ -25,7 +25,7 @@ const NavBar = () => {
         </li>
         <li>
           <a
-            className="group flex items-center py-3 active"
+            className="group flex items-center py-3 active no-underline"
             onClick={(e) => handleSmoothScroll(e, 'experience')}
             href="#experience" // Keep href for accessibility
             aria-label="#experience"
@@ -36,7 +36,7 @@ const NavBar = () => {
         </li>
         <li>
           <a
-            className="group flex items-center py-3 active"
+            className="group flex items-center py-3 active no-underline"
             onClick={(e) => handleSmoothScroll(e, 'projects')}
             href="#projects" // Keep href for accessibility
             aria-label="#projects"
