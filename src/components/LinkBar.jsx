@@ -1,4 +1,5 @@
 import React from "react";
+import MLogo from './images/m-logo.png';
 
 const LinkBar = () => {
     return (
@@ -35,6 +36,12 @@ const LinkBar = () => {
                     </svg>
                 </a>
             </li>
+            <li className="mr-5 text-xs shrink-0">
+                <a className="block hover:text-slate-200" href="https://github.com/marywebby/vite-portfolio" aria-label="Github for portfolio (opens in a new tab)" target="_blank" rel="noreferrer noopener" title="Github">
+                    <img src={MLogo} alt="Github Logo" className="h-7 w-8 object-contain" aria-hidden="true" />
+                </a>
+            </li>
+
         </ul>
     );
 };

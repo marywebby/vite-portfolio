@@ -14,8 +14,7 @@ const projects = [
     description: 'Showcase your side-gigs and manage external payment methods with GigIt. This tool will allow users to get paid for their hobbies & side projects, letting family and friends easily book them for their services.',
     imageSrc: gigitImage, 
     link: 'https://github.com/marywebby/GigIt'
-  },
-
+  }
 ];
 
 const Projects = () => {
