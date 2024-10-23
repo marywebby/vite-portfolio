@@ -1,6 +1,6 @@
 import React from 'react';
 import lineupImage from './images/lineup-cutout.png';
-import gigitImage from './images/gigit.png'
+import gigitImage from './images/gigit-cutout.png'
 
 const projects = [
   {
@@ -14,7 +14,7 @@ const projects = [
     description: 'Showcase your side-gigs and manage external payment methods with GigIt. This tool will allow users to get paid for their hobbies & side projects, letting family and friends easily book them for their services.',
     imageSrc: gigitImage, 
     link: 'https://github.com/marywebby/GigIt'
-  }
+  },
 
 ];
 
@@ -33,8 +33,8 @@ const Projects = () => {
 
                 <img
                   alt={project.title}
-                  width={150}
-                  height={120}
+                  width={160}
+                  height={100}
                   decoding="async"
                   className="rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-2 sm:col-span-2 sm:translate-y-1"
                   src={project.imageSrc}
