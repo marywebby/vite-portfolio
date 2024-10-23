@@ -1,5 +1,5 @@
 import React from 'react';
-import lineupImage from './images/generating-lineup.gif';
+import lineupImage from './images/lineup-cutout.png';
 import gigitImage from './images/gigit.png'
 
 const projects = [
