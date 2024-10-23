@@ -10,10 +10,10 @@ const About = () => {
     </div>
     <div>
       <p className='mb-4'>
-        Motivated and adaptable professional with a background in software development and a passion for technology and innovation. Possess a deep understanding of full-stack technologies with experience collaborating in diverse teams to deliver high-impact projects. 
+        Motivated and adaptable individual with a background in software development and a genuine passion for technology and innovation. I have a solid understanding of full-stack technologies and enjoy working with diverse teams to bring impactful projects to life. I approach challenges with an analytical mindset and strong interpersonal skills, always looking for new opportunities to learn and grow. I thrive in dynamic environments where I can apply my creativity and problem-solving skills to make a positive impact.
       </p>
       <p className='mb-4'>
-        Bringing a strong analytical mindset and excellent interpersonal skills, seeking new challenges to further develop skills and contribute to innovative projects. Thrives in dynamic environments, applying creativity and problem-solving abilities to drive positive change.
+        With previous work experience in non-profits and customer service, I am now a Program Assistant at a Software Development Apprenticeship Program, one in which I have recently graduated from. 
       </p>
     </div>
   </section>
