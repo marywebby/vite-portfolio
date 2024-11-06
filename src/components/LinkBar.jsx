@@ -3,7 +3,7 @@ import MLogo from './images/m-logo.png';
 
 const LinkBar = () => {
     return (
-        <ul className="flex items-center pl-0 list-none mb-24" aria-label="Socials-Links">
+        <ul className="flex items-center pl-0 list-none mb-24 z-50" aria-label="Socials-Links">
             <li className="mr-5 text-xs shrink-0">
                 <a className="block hover:text-slate-200" href="https://github.com/marywebby" aria-label="GitHub (opens in a new tab)" target="_blank" rel="noreferrer noopener" title="Github">
                     <span className="sr-only">Github</span>
