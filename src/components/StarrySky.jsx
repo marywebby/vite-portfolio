@@ -71,7 +71,7 @@ class StarrySky extends React.Component {
   render() {
     const { num } = this.state;
     return (
-      <div id="App">
+      <div id="App" className="absolute z-[-1]">
         <svg id="sky">
           {[...Array(num)].map((x, y) => (
             <circle
