@@ -2,13 +2,22 @@ import React from 'react';
 
 const experienceData = [
   {
-    dateRange: "Feb'24 - Present",
+    dateRange: "Aug'24 - Present",
     title: 'Program Assistant',
     organization: 'Discovery Partners Institute',
     description:
       'Sociosqu hac a luctus neque augue etiam efficitur porta. Fermentum ridiculus ut tortor elit vitae condimentum est. Vehicula neque suscipit sagittis montes placerat per litora. Netus condimentum sodales euismod lorem elit lacinia nullam. Lorem habitasse curabitur praesent metus aptent, cras hendrerit pharetra.',
     technologies: ['Ruby on Rails', 'HTML/CSS', 'Postgres', 'JavaScript'],
     link: 'https://dpi.uillinois.edu/',
+  },
+  {
+    dateRange: "Dec'23 - May'23",
+    title: 'Software Development Apprentice',
+    organization: 'Discovery Partners Institute',
+    description:
+      'Attended weekly classroom sessions and developed full-stack web apps utilizing technologies such as Ruby on Rails PostgreSQL, and JavaScript. Collaborated in teams throughout the development life cycle, researched issues, and designed solutions, while curating deadlines and delegating responsibilities. Engaged in networking events hosted by DPI to meet industry professionals in tech, sales, and e-commerce, enhancing soft skills through workshops in public speaking and networking for personal growth.',
+    technologies: ['Community Engagement', 'Program Development'],
+    link: 'https://www.americorps.gov/',
   },
   {
     dateRange: "Jan'22 - Aug'22",
