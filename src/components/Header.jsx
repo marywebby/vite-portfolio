@@ -14,7 +14,7 @@ const Header = () => {
           Software Developer
         </h2>
         <p className='mt-4 max-w-sm leading-normal text-gray-400'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Program Assistant at Discovery Partners Institute | Aspiring Full-Stack Developer 
         </p>
         <NavBar />
       </div>
