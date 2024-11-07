@@ -44,7 +44,7 @@ const experienceData = [
     description:
       'Curated fitness and movement classes specific to residents and of Allen Neighborhood Center, accounting and accommodating for limited mobility and range of motion for senior and disabled participants. Supported the set up and operation of the year-long EBT-friendly farmers market, aiding customers in accessing funds from their accounts and transferring them into token currency for purchasing. Supervised the Market Moves Program, encouraging exercise by providing tokens to the Farmers Market as incentives for exercising, healthy eating, and supporting local farmers.',
     technologies: ['Community Engagement', 'Program Development', 'Physical Educaiton'],
-    link: 'https://www.americorps.gov/',
+    link: 'https://allenneighborhoodcenter.org/',
   },
 ];
 
