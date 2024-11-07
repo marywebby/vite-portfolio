@@ -6,29 +6,46 @@ const experienceData = [
     title: 'Program Assistant',
     organization: 'Discovery Partners Institute',
     description:
-      'Sociosqu hac a luctus neque augue etiam efficitur porta. Fermentum ridiculus ut tortor elit vitae condimentum est. Vehicula neque suscipit sagittis montes placerat per litora. Netus condimentum sodales euismod lorem elit lacinia nullam. Lorem habitasse curabitur praesent metus aptent, cras hendrerit pharetra.',
-    technologies: ['Ruby on Rails', 'HTML/CSS', 'Postgres', 'JavaScript'],
+      'Support trainees during the pre-apprenticeship and classroom phases by offering project assistance, monitoring their progress, and ensuring consistent attendance. Participate in team meetings, lectures, and labs, continually up-skilling in the latest curricula and providing encouragement and guidance based on my own experience in the program.',
+    technologies: ['Ruby on Rails', 'HTML/CSS', 'Leadership', 'Technical Support'],
     link: 'https://dpi.uillinois.edu/',
   },
   {
-    dateRange: "Dec'23 - May'23",
+    dateRange: "Dec'23 - May'24",
     title: 'Software Development Apprentice',
     organization: 'Discovery Partners Institute',
     description:
       'Attended weekly classroom sessions and developed full-stack web apps utilizing technologies such as Ruby on Rails PostgreSQL, and JavaScript. Collaborated in teams throughout the development life cycle, researched issues, and designed solutions, while curating deadlines and delegating responsibilities. Engaged in networking events hosted by DPI to meet industry professionals in tech, sales, and e-commerce, enhancing soft skills through workshops in public speaking and networking for personal growth.',
-    technologies: ['Community Engagement', 'Program Development'],
-    link: 'https://www.americorps.gov/',
+    technologies: ['Ruby on Rails', 'HTML/CSS', 'Postgres', 'JavaScript', 'Tailwind'],
+    link: 'https://dpi.uillinois.edu/',
   },
   {
-    dateRange: "Jan'22 - Aug'22",
+    dateRange: "Dec'23 - Feb'24",
+    title: 'Jr Front End Web Developer',
+    organization: 'TalkDust Inc.',
+    description:
+      'Developed and designed emoji reaction buttons for messages within TalkDusts chatrooms, aimed at connecting people over shared interests, utilizing JavaScript and Lit Elements for functionality. Assisted the UX team in the design process by creating mockups of the websites model using tools such as Figma for seamless creation and visibility of the product outcome.',
+    technologies: ['JavaScript', 'Lit Elements', 'Figma'],
+    link: 'https://www.linkedin.com/company/talkdust/',
+  },
+  {
+    dateRange: "May'22 - Aug'22",
     title: 'Community Resilience Summer Associate',
     organization: 'AmeriCorps',
     description:
-      'Inceptos ligula fermentum interdum fringilla fusce varius torquent inceptos scelerisque libero. Ligula sagittis lorem praesent euismod adipiscing cursus primis habitasse. Commodo ultricies nisi platea congue.',
-    technologies: ['Community Engagement', 'Program Development'],
+      'New position at Allen Neighborhood Center funded through AmeriCorps VISTA, a program focused on addressing issues related to poverty, such as public health, education, the environment, public safety, and employment. Coordinated the Bread Basket Initiative, overseeing the distribution of free produce and baked goods from the Nonprofit Organization, Allen Neighborhood Center. Canvassed low-income neighborhoods in the area, informing residents about news and resources available at the center, in addition to gathering their perceptions of the "state of the neighborhood"',
+    technologies: ['Community Engagement', 'Program Development', 'Community Outreach'],
+    link: 'https://www.americorps.gov/',
+  },  
+  {
+    dateRange: "Jan'22 - May'22",
+    title: 'Market Moves Coordinator Intern',
+    organization: 'Allen Neighborhood Center',
+    description:
+      'Curated fitness and movement classes specific to residents and of Allen Neighborhood Center, accounting and accommodating for limited mobility and range of motion for senior and disabled participants. Supported the set up and operation of the year-long EBT-friendly farmers market, aiding customers in accessing funds from their accounts and transferring them into token currency for purchasing. Supervised the Market Moves Program, encouraging exercise by providing tokens to the Farmers Market as incentives for exercising, healthy eating, and supporting local farmers.',
+    technologies: ['Community Engagement', 'Program Development', 'Physical Educaiton'],
     link: 'https://www.americorps.gov/',
   },
-  // Add more experiences as needed
 ];
 
 const Experience = () => {
