@@ -70,7 +70,6 @@ const Experience = () => {
         <div className='mt-12'>
         </div>
       </div>
-      <a href="" className="href">test</a>
       <a
             className='inline-flex items-baseline font-medium leading-tight hover:text-teal-300 focus-visible:text-teal-300 text-slate-200 group/link text-sm'
             href='./resume.pdf'
