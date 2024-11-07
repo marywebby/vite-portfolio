@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(black, rgb(12, 12, 81) 100%); 
+  background: linear-gradient(rgb(1, 1, 10), rgb(12, 12, 81) 100%); 
   font-family: 'Catamaran', sans-serif;
   height: auto;
   padding: 0;
@@ -39,7 +39,7 @@ body {
   padding: 0;
   background-color: black;
   position: absolute;
-  background: linear-gradient(-45deg, white, rgba(0, 0, 255, 0));
+  background: linear-gradient(-45deg, white, rgba(1, 1, 255, 0));
   filter: drop-shadow(0 0 6px black);
   overflow: hidden;
 }
