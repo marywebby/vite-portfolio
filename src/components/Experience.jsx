@@ -16,7 +16,7 @@ const experienceData = [
     organization: 'Discovery Partners Institute',
     description:
       'Attended weekly classroom sessions and developed full-stack web apps utilizing technologies such as Ruby on Rails PostgreSQL, and JavaScript. Collaborated in teams throughout the development life cycle, researched issues, and designed solutions, while curating deadlines and delegating responsibilities. Engaged in networking events hosted by DPI to meet industry professionals in tech, sales, and e-commerce, enhancing soft skills through workshops in public speaking and networking for personal growth.',
-    technologies: ['Ruby on Rails', 'HTML/CSS', 'Postgres', 'JavaScript', 'Tailwind'],
+    technologies: ['Ruby on Rails', 'HTML/CSS', 'Postgresql', 'JavaScript', 'Tailwind'],
     link: 'https://dpi.uillinois.edu/',
   },
   {
