@@ -2,6 +2,8 @@
 import React from 'react';
 import NavBar from './NavBar';
 import LinkBar from './LinkBar'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faMapPin } from '@fortawesome/free-solid-svg-icons';
 
 const Header = () => {
   return (
@@ -14,7 +16,9 @@ const Header = () => {
           Software Developer
         </h2>
         <p className='mt-4 max-w-sm leading-normal text-gray-400'>
-          Program Assistant @ Discovery Partners Institute 
+          <FontAwesomeIcon icon={faMapPin} className='text-gray-400'/>
+            &nbsp; Program Assistant at&nbsp;
+              <a href="https://dpi.uillinois.edu/" className='text-gray-400 no-underline'>D.P.I.</a>
         </p>
         <NavBar />
       </div>
