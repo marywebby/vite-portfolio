@@ -17,13 +17,18 @@ export default {
         'white': {
           75: '#E2E8F0',
         },
+      textShadow: {
+        "glow": "0 0 5px #0bf4f3, 0 0 10px #0bf4f3, 0 0 20px #0bf4f3, 0 0 40px #0bf4f3, 0 0 80px #0bf4f3"
+      }
       },
     },
   },
   corePlugins: {
     preflight: false, // Disable Tailwind's base styles if you need complete control
   },
-  plugins: [],
+  plugins: [
+    require ("tailwindcss-textshadow")
+  ],
 }
 
 
