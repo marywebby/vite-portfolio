@@ -14,7 +14,7 @@ const Header = () => {
           Software Developer
         </h2>
         <p className='mt-4 max-w-sm leading-normal text-gray-400'>
-          Program Assistant at Discovery Partners Institute | Aspiring Full-Stack Developer 
+          Program Assistant @ Discovery Partners Institute 
         </p>
         <NavBar />
       </div>
