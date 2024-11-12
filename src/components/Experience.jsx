@@ -3,7 +3,7 @@ import React from 'react';
 const experienceData = [
   {
     dateRange: "Aug'24 - Present",
-    title: 'Program Assistant',
+    title: 'Technical Associate',
     organization: 'Discovery Partners Institute',
     description:
       'Support trainees during the pre-apprenticeship and classroom phases by offering project assistance, monitoring their progress, and ensuring consistent attendance. Participate in team meetings, lectures, and labs, continually up-skilling in the latest curricula and providing encouragement and guidance based on my own experience in the program.',
