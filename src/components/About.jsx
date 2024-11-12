@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
   return (
-    <section id='about' className='mb-16 scroll-mt-16 md:mb-16 lg:mb-20 lg:scroll-mt-24 text-gray-400 text-md backdrop-blur-md p-4 rounded-md' aria-label='About me'>
+    <section id='about' className='mb-16 scroll-mt-16 md:mb-16 lg:mb-20 lg:scroll-mt-24 text-gray-400 text-md backdrop-blur-md p-2 rounded-md' aria-label='About me'>
     <div className='sticky top-0 z-20 -mx-6 mb-4 w-screen bg-slate-900/75 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0'>
       <h2 className="text-sm font-bold uppercase tracking-widest text-white-75 lg:sr-only">
         about me
