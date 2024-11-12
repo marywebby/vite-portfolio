@@ -17,7 +17,7 @@ const Header = () => {
         </h2>
         <p className='mt-4 max-w-sm leading-normal text-gray-400'>
           <FontAwesomeIcon icon={faMapPin} className='text-gray-400'/>
-            &nbsp; Program Assistant at&nbsp;
+            &nbsp; Technical Associate at&nbsp;
               <a href="https://dpi.uillinois.edu/" className='text-gray-400 no-underline hover:text-teal-300'>D.P.I.</a>
         </p>
         <NavBar />
