@@ -17,6 +17,9 @@ export default {
         'white': {
           75: '#E2E8F0',
         },
+        'blue': {
+          75: '#385494',
+        }
       },
       textShadow: {
         glow: '0 0 5px #dcffff, 0 0 10px #dcffff, 0 0 20px #dcffff, 0 0 40px #dcffff, 0 0 80px #dcffff'
@@ -27,7 +30,7 @@ export default {
     preflight: false, // Disable Tailwind's base styles if you need complete control
   },
   plugins: [
-    require("tailwindcss-textshadow")
+    // require("tailwindcss-textshadow")
   ],
 }
 
