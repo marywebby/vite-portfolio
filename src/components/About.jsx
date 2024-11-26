@@ -25,7 +25,7 @@ const About = () => {
       </p>
       <p className='mb-4 leading-relaxed'>
         In my spare time, I am usually walking, knitting, hanging out with my friends and family, or working through 
-        <a href='https://letterboxd.com/' className='no-underline text-teal-300 hover:text-teal-600'> LetterBoxd's </a> top 100 movie list. 
+        <a href='https://letterboxd.com/' className='no-underline text-teal-300 hover:text-teal-600' aria-label="LetterBoxd Homepage (opens in a new tab)" target="_blank" rel="noreferrer noopener" title="Letterboxd"> LetterBoxd's </a> top 100 movie list. 
       </p>
     </div>
   </section>
