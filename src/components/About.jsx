@@ -16,7 +16,7 @@ const About = () => {
         With a multidiciplinary education combining <a href='https://education.msu.edu/kin/' className='no-underline text-teal-300 hover:text-teal-300'> Kinesiology </a> and <a href='https://dpi.uillinois.edu/tech-talent-development/' className='no-underline text-teal-300 hover:text-teal-300'> Software Development </a>, the idea of what my professional career would entail has shifted throughout the years. With previous work experience in <a href='https://allenneighborhoodcenter.org/' className='no-underline text-teal-300 hover:text-teal-300'> Community Engagement</a>, <a href='https://americorps.gov/serve/americorps/americorps-vista' className='no-underline text-teal-300 hover:text-teal-300'> Non-profit Organizations</a>, and <a href='https://education.msu.edu/kin/' className='no-underline text-teal-300 hover:text-teal-300'> Physical Education</a>, I discovered my passion for technology by learning from and listening to the people I interacted with daily, inspiring me to create meaningful change in their lives.
       </p>
       <p className='mb-4 leading-relaxed'>
-        In my spare time, I am usually walking, knitting, hanging out with my friends and family, or working through <a href='https://letterboxd.com/' className='no-underline text-white-75 hover:text-teal-300'> LetterBoxd's </a> top 100 movie list. 
+        In my spare time, I am usually walking, knitting, hanging out with my friends and family, or working through <a href='https://letterboxd.com/' className='no-underline text-teal-300 hover:text-teal-300'> LetterBoxd's </a> top 100 movie list. 
       </p>
     </div>
   </section>
