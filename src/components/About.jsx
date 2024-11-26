@@ -18,8 +18,8 @@ const About = () => {
          and 
         <a href='https://dpi.uillinois.edu/tech-talent-development/' className='no-underline text-teal-300 hover:text-teal-600' aria-label="DPI Apprenticeship Homepage (opens in a new tab)" target="_blank" rel="noreferrer noopener" title="DPI"> Software Development </a>
         , the idea of what my professional career would entail has shifted throughout the years. With previous work experience in 
-        <a href='https://allenneighborhoodcenter.org/' className='no-underline text-teal-300 hover:text-teal-600' aria-label="AmeriCorps VISTA Homepage (opens in a new tab)" target="_blank" rel="noreferrer noopener" title="Americorp"> Community Engagement</a>
-        , <a href='https://americorps.gov/serve/americorps/americorps-vista' className='no-underline text-teal-300 hover:text-teal-600'> Non-profit Organizations</a>
+        <a href='https://allenneighborhoodcenter.org/' className='no-underline text-teal-300 hover:text-teal-600' aria-label="Allen Neighborhood Center Homepage (opens in a new tab)" target="_blank" rel="noreferrer noopener" title="Allen Neighborhood Center"> Community Engagement</a>
+        , <a href='https://americorps.gov/serve/americorps/americorps-vista' className='no-underline text-teal-300 hover:text-teal-600' aria-label=" Homepage (opens in a new tab)" target="_blank" rel="noreferrer noopener" title="DPI"> Non-profit Organizations</a>
         , and <a href='https://education.msu.edu/kin/' className='no-underline text-teal-300 hover:text-teal-600'> Physical Education</a>
         , I discovered my passion for technology by learning from and listening to the people I interacted with daily, inspiring me to create meaningful change in their lives.
       </p>
